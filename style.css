@@ -1,0 +1,94 @@
+*{
+	margin-top: 0;
+	padding: 0;
+	font-family: times-new Roman;
+}
+
+body {
+	 background-image: url("blink.png");
+      background-size: 100%, 100%;
+}
+
+ul li {
+	display: inline-block;
+	list-style: non;
+	margin: 10px, 20px;
+	margin-top: 25px;
+	margin-right: 80px;
+	float: right;
+}
+
+.logo {
+	color: white;
+	position: fixed;
+}
+
+ul li a:hover {
+	color: purple;
+}
+
+.intro {
+	color: whitesmoke;
+	padding-left: 50px;
+	margin-left: 1px;
+	padding: 400px;
+	font-size: xx-large;
+}
+
+.perso {
+	color: white;
+	font-size: x-large;
+}
+
+.me {
+	color: skyblue;
+	font-size: xx-large;
+
+}
+
+.sme {
+	color: skyblue;
+	font-size: xx-large;
+}
+.jme {
+	color: skyblue;
+}
+
+.bam {
+	font-size: xx-large;
+}
+#self {
+	color: whitesmoke;
+	padding-left: 50px;
+	margin-left: 1px;
+	padding: 310px;
+	font-size: xx-large;
+
+}
+
+#secr {
+    color: whitesmoke;
+	padding-left: 50px;
+	margin-left: 1px;
+	padding: 210px;
+	font-size: xx-large;
+}
+.maj {
+	color: skyblue;
+}
+
+#cret {
+	color: whitesmoke;
+	padding-left: 50px;
+	margin-left: 1px;
+	padding: 300px;
+	font-size: xx-large;
+}
+.mail {
+	color: skyblue;
+
+}
+
+.num {
+color: skyblue;
+}
