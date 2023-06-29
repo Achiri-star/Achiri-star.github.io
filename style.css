@@ -7,12 +7,6 @@
 body {
 	 background-image: url("blink.png");
       background-size: 100%, 100%;
-  padding: 20px;
-  color: white;
-/* Extra small devices (phones, 600px and down) */
-@media only screen and (max-width: 600px) 
-/* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) 
 }
 
 ul li {
