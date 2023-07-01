@@ -1,0 +1,19 @@
+#body {
+	margin: 60px;
+}
+
+.logo {
+	color: blueviolet;
+	position: fixed;
+}
+ul li a:hover {
+	color: purple;
+}
+
+.intro {
+	color: blueviolet;
+	padding-left: 50px;
+	margin-left: 1px;
+	padding: 400px;
+	font-size: xx-large;
+}
